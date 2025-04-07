@@ -39,18 +39,10 @@ export default function RootLayout({ children }) {
                 </li>
                 <li>
                   <Link
-                    href="/technology"
+                    href="/products"
                     className="font-medium hover:text-green-800 transition"
                   >
-                    Technology
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    href="/careers"
-                    className="font-medium hover:text-green-800 transition"
-                  >
-                    Careers
+                    Notre Produits
                   </Link>
                 </li>
                 <li>
