@@ -64,11 +64,13 @@ export default function RootLayout({ children }) {
               </ul>
             </nav>
             <Link
-              href="/contact"
-              className="bg-green-800 text-white px-5 py-2 rounded-full font-medium hover:bg-green-900 transition"
-            >
-              Contact Us
-            </Link>
+                href="/solution"
+                className="bg-green-800 text-white px-8 py-3 rounded-full font-medium hover:bg-green-900 transition text-center"
+              >
+               
+Consigue tu presupuesto
+
+              </Link>
             <button className="md:hidden">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
