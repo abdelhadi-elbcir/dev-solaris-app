@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
       >
         <header className="fixed w-full bg-stone-50/90 backdrop-blur-sm z-50">
           <div className="container mx-auto px-6 py-4 flex justify-between items-center">
-            <div className="text-2xl font-semibold text-green-800">Solaris</div>
+            <div className="text-2xl font-semibold text-green-800"><Link href="/">Solaris</Link></div>
             <nav className="hidden md:block">
               <ul className="flex space-x-8">
                 <li>
